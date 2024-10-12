@@ -1,0 +1,11 @@
+git clone [repository]:                            Copies a remote repository to your local machine.
+• git add [file(s)]:                              Adds file(s) to the staging area, preparing them for committing.
+• git commit -m "[commit message]":  Commits the changes in the staging area to the local repository, along with a descriptive commit message.
+• git status:  Shows the current status of the repository, including any modified, staged, or untracked files.
+• git push:   Pushes the committed changes from the local repository to a remote repository.
+• git pull:  Fetches and merges the latest changes from a remote repository to the local repository.
+• git branch:   Lists all branches in the repository and shows the currently active branch.
+• git checkout [branch]:   Switches to a specific branch or commit.
+• git merge [branch]:   Merges changes from one branch into the current branch.
+• git log:   Displays a history of commits in the repository.
+• git diff:  Shows the differences between the working directory and the staging area
